@@ -55,6 +55,7 @@ h1{
 .wrapper.active form img{
 	display: block;
 	max-width: 350px;
+	max-height: 200px;
 }
 
 form img{
